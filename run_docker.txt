@@ -1,0 +1,2 @@
+#Frist option
+docker run --rm -it -p 8503:8503 $(docker build -q .)
